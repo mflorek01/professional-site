@@ -52,6 +52,7 @@ body {
     font-style: italic;
     color: #333;
     margin-left: 50px; /* Matches the left margin of the contact info */
+    text-align: left;
 }
 
 .bio-section {
