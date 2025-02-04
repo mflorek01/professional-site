@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: url("PXL_20221022_140537848.jpg");
+    background-image: linear-gradient(black, purple);
 }
 
 .container {
